@@ -4,6 +4,7 @@ An intelligent, lightweight API routing service built with **FastAPI**, **Senten
 
 This project significantly reduces LLM API costs and response latency by using semantic vector search to serve instantly cached responses for contextually similar user queries.
 
+📄 **Notion Case Study:** [View detailed architecture & business overview](https://pouncing-amphibian-8bb.notion.site/Smart-AI-Router-Project-4061ef51125f804e82cddc27e733e338)
 ---
 
 ## ✨ Key Features
